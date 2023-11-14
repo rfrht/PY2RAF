@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 07-Nov-2023*
+*Revisado em: 14-Nov-2023*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -47,7 +47,7 @@
 | 439.875 | ➖ | 123 | ✅ | Mairiporã | $+ |
 | 439.900 | ➖ | 82.5 | ❌ | Serra Negra | Rpt Chapeu de Couro $- |
 | 439.925 | ➖ | 🔘 | ☢️ | Desconhecido | Digitalizada |
-| 439.940 | ➖ | 71.9 | ❌ | Desconhecido | Sinal 9+40 $- |
+| 439.940 | 🔘 | 71.9 | ✅ | Echolink IVG Cantareira | Simplex e subtonada - PY2MO |
 
 73 de PY2RAF.
 
