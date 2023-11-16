@@ -35,7 +35,7 @@
 | 439.050 | ➖ | 67 | ✅ | São Paulo | Repetidora Jaraguá Urbana |
 | 439.125 | ➖ | 🔘 | ✅ | Itu | DMR |
 | 439.200 | ➖ | 123 | ✅ | São Paulo | |
-| 439.225 | ➖ | 88.5 | ❌ | Salto | |
+| 439.225 | ➖ | 88.5 | ✅ | Salto | DX |
 | 439.275 | ➖ | 127.3 | ✅ | Mogi das Cruzes | |
 | 439.300 | ➖ | 🔘 | ❌ | Mogi das Cruzes | |
 | 439.325 | ➖ | 103.5 | ✅ | Desconhecido | Sinal 9+60 |
