@@ -45,7 +45,7 @@
 | 439.700 | ➖ | 123 | ✅ | Interlagos | |
 | 439.750 | ➖ | 🔘 | ☢️ | Itu | Digitalizada |
 | 439.875 | ➖ | 123 | ✅ | Mairiporã | |
-| 439.900 | ➖ | 82.5 | ❌ | Serra Negra | Rpt Chapeu de Couro |
+| 439.900 | ➖ | 82.5 | ✅ | Serra Negra | Rpt Chapeu de Couro |
 | 439.925 | ➖ | 🔘 | ☢️ | Desconhecido | Digitalizada |
 | 439.940 | 🔘 | 71.9 | ✅ | Echolink IVG Cantareira | Simplex e subtonada - PY2MO |
 
