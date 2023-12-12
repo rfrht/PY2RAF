@@ -1,11 +1,11 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 16-Nov-2023*
+*Revisado em: 12-Dez-2023*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | 145.270 | ➖ | 123 | ❌ | Cabreúva | Inoperante |
-| 145.250 | ➖ | 123 | ❌ | São Paulo | LABRE - Vl Carrão |
+| 145.250 | ➖ | 123 | ✅ | São Paulo | LABRE - Vl Carrão |
 | 145.290 | ➖ | 🔘 | ❌ | São Paulo | Jaraguá DX |
 | 145.310 | ➖ | 🔘 | ☢️ | Joanópolis | Digitalizada |
 | 145.350 | ➖ | 🔘 | ☢️ | Rancho da Amizade | Digitalizada |
@@ -27,7 +27,7 @@
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | |
 | 147.150 | ➕ | 67 | ❌ | São Bernardo do Campo | |
 | 147.150 | ➕ | 88.5 | ❓ | São Manuel | Depende de propagação |
-| 147.210 | ➕ | 🔘 | ❌ | Córrego do Bom Jesus |
+| 147.210 | ➕ | 67 | ✅ | Córrego do Bom Jesus |
 | 147.240 | ➕ | 🔘 | ❌ | Sorocaba | C4FM |
 | 147.270 | ➕ | 67 | ❌ | Jaraguá | Teste PY2MF |
 | 147.330 | ➕ | 74.4 | ✅ | Jundiaí | |
