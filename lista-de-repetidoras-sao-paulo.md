@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 12-Dez-2023*
+*Revisado em: 16-Jan-2024*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -41,7 +41,7 @@
 | 439.325 | ➖ | 103.5 | ✅ | Desconhecido | Sinal 9+60 |
 | 439.450 | ➖ | 123 | ❓ | Sorocaba | Atracável por Votorantim e Sorocaba |
 | 439.600 | ➖ | 123 | ✅ | Paranapiacaba | Fala bem com baixada santista |
-| 439.650 | ➖ | 🔘 | ✅ | São Paulo | Cantareira / Link com 10m |
+| 439.650 | ➖ | 88.5 | ✅ | São Paulo | Cantareira |
 | 439.700 | ➖ | 123 | ✅ | Interlagos | |
 | 439.750 | ➖ | 🔘 | ☢️ | Itu | Digitalizada |
 | 439.875 | ➖ | 123 | ✅ | Mairiporã | |
