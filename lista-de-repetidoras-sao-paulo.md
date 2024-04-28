@@ -1,11 +1,11 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 20-Fev-2024*
+*Revisado em: 28-Abr-2024*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| 145.270 | ➖ | 123 | ❌ | Cabreúva | Inoperante |
 | 145.250 | ➖ | 123 | ✅ | São Paulo | LABRE - Vl Carrão |
+| 145.270 | ➖ | 123 | ✅ | Cabreúva |  |
 | 145.290 | ➖ | 🔘 | ❌ | São Paulo | Jaraguá DX |
 | 145.310 | ➖ | 🔘 | ☢️ | Joanópolis | Digitalizada |
 | 145.350 | ➖ | 🔘 | ☢️ | Rancho da Amizade | Digitalizada |
@@ -34,7 +34,7 @@
 | 147.390 | ➕ | 123 | ✅ | Interlagos | |
 | 439.000 | ➖ | 67 | ❌ | Desconhecido | Sinal marginal |
 | 439.050 | ➖ | 67 | ✅ | São Paulo | Repetidora Jaraguá Urbana |
-| 439.125 | ➖ | 🔘 | ✅ | Itu | DMR |
+| 439.125 | ➖ | 🔘 | ☢️ | Cabreúva | DMR |
 | 439.200 | ➖ | 123 | ✅ | São Paulo | |
 | 439.225 | ➖ | 88.5 | ✅ | Salto | DX |
 | 439.275 | ➖ | 127.3 | ✅ | Mogi das Cruzes | |
@@ -44,7 +44,7 @@
 | 439.600 | ➖ | 123 | ✅ | Paranapiacaba | Fala bem com baixada santista |
 | 439.650 | ➖ | 🔘 | ✅ | São Paulo | Cantareira - Link com 147.030 de Votorantim/Sorocaba |
 | 439.700 | ➖ | 123 | ✅ | Interlagos | |
-| 439.750 | ➖ | 🔘 | ☢️ | Itu | Digitalizada |
+| 439.750 | ➖ | 123 | ✅ | Cabreúva | |
 | 439.875 | ➖ | 123 | ✅ | Mairiporã | |
 | 439.900 | ➖ | 82.5 | ✅ | Serra Negra | Rpt Chapeu de Couro |
 | 439.925 | ➖ | 🔘 | ☢️ | Desconhecido | Digitalizada |
