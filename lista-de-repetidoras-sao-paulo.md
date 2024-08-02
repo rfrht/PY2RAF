@@ -9,7 +9,7 @@
 | 145.290 | ➖ | 🔘 | ❌ | São Paulo | Jaraguá DX |
 | 145.310 | ➖ | 🔘 | ☢️ | Joanópolis | Digitalizada |
 | 145.350 | ➖ | 🔘 | ☢️ | Rancho da Amizade | Digitalizada |
-| 145.410 | ➖ | 123 | ❌ | Piedade / Ibiúna | Repetidora Pedra do Lagarto |
+| 145.410 | ➖ | 123 | ✅ | Piedade / Ibiúna | Repetidora Pedra do Lagarto |
 | 145.410 | ➖ | 77 | ❓ | Jacutinga MG | DX / Depende Propagação |
 | 145.450 | ➖ | 67 | ✅ | Paraibuna | |
 | 145.450 | ➖ | 77 | ❓ | Botucatu | DX / Depende propagação |
