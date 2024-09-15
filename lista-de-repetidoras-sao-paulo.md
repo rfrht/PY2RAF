@@ -39,7 +39,7 @@
 | 439.225 | ➖ | 88.5 | ❓ | Salto | DX |
 | 439.275 | ➖ | 127.3 | ✅ | Mogi das Cruzes | |
 | 439.300 | ➖ | 🔘 | ❌ | Mogi das Cruzes | |
-| 439.325 | ➖ | 103.5 | ✅ | Av. Paulista | Mantenedor: Hugo |
+| 439.325 | ➖ | 103.5 | ✅ | São Paulo | Av. Paulista |
 | 439.450 | ➖ | 123 | ❓ | Sorocaba | Atracável por Votorantim e Sorocaba |
 | 439.600 | ➖ | 123 | ✅ | Paranapiacaba | Fala bem com baixada santista |
 | 439.650 | ➖ | 🔘 | ✅ | São Paulo | Cantareira - Link com 147.030 de Votorantim/Sorocaba |
