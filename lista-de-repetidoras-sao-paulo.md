@@ -1,10 +1,10 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 28-Abr-2024*
+*Revisado em: 15/Set/2024*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| 145.250 | ➖ | 123 | ✅ | São Paulo | LABRE - Vl Carrão |
+| 145.250 | ➖ | 123 | ❌ | São Paulo | LABRE - Vl Carrão |
 | 145.270 | ➖ | 123 | ✅ | Cabreúva |  |
 | 145.290 | ➖ | 🔘 | ❌ | São Paulo | Jaraguá DX |
 | 145.310 | ➖ | 🔘 | ☢️ | Joanópolis | Digitalizada |
@@ -18,10 +18,10 @@
 | 146.610 | ➖ | 123 | ✅ | Itapecerica da Serra | Repetidora LABRE SP |
 | 146.610 | ➖ | 91.5 | ❓ | Apiaí | DX / Depende propagação |
 | 146.650 | ➖ | 103.5 | ✅ | Aldeia da Serra | Nova |
-| 146.730 | ➖ | 141.3 | ❌ | Mogi das Cruzes | |
+| 146.730 | ➖ | 141.3 | ✅ | Mogi das Cruzes | |
 | 146.810 | ➖ | 82.5 | ❓ | Extrema | Não atraco da ZO. [QRZ](https://www.qrz.com/db/PY4FW) |
 | 146.890 | ➖ | 79.7 | ✅ | Campos do Jordão | Voltou a analógica |
-| 146.910 | ➖ | 82.5 | ❌ | Serra Negra | A famosa Chapéu de Palha |
+| 146.910 | ➖ | 82.5 | ✅ | Serra Negra | A famosa Chapéu de Palha |
 | 146.970 | ➖ | 100 | ❌ | Itu | |
 | 147.000 | ➕ | 123 | ❌ | Mauá | |
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | |
@@ -30,13 +30,13 @@
 | 147.210 | ➕ | 67 | ✅ | Córrego do Bom Jesus |
 | 147.240 | ➕ | 🔘 | ❌ | Sorocaba | C4FM |
 | 147.270 | ➕ | 67 | ❌ | Jaraguá | Teste PY2MF |
-| 147.330 | ➕ | 74.4 | ✅ | Jundiaí | |
+| 147.330 | ➕ | 74.4 | ❓ | Jundiaí | |
 | 147.390 | ➕ | 123 | ✅ | Interlagos | |
 | 439.000 | ➖ | 67 | ❌ | Desconhecido | Sinal marginal |
 | 439.050 | ➖ | 67 | ✅ | São Paulo | Repetidora Jaraguá Urbana |
 | 439.125 | ➖ | 🔘 | ☢️ | Cabreúva | DMR |
 | 439.200 | ➖ | 123 | ✅ | São Paulo | |
-| 439.225 | ➖ | 88.5 | ✅ | Salto | DX |
+| 439.225 | ➖ | 88.5 | ❓ | Salto | DX |
 | 439.275 | ➖ | 127.3 | ✅ | Mogi das Cruzes | |
 | 439.300 | ➖ | 🔘 | ❌ | Mogi das Cruzes | |
 | 439.325 | ➖ | 103.5 | ✅ | Desconhecido | Sinal 9+60 |
