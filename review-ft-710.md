@@ -18,6 +18,6 @@ I found a small bug; when the radio is on `SQUELCH - FM ONLY`, the `SQL` pin on 
 
 And now, the DSP - zommmmggg the DSP. The DNR is so capable (choose the right DNR setting) to the point to actually **help** weak signals. I used the DNR on my 991A only with very strong signals. On FT-710, it helps with weak signals too. Very good.
 
-Regards the sensitivity - I leave my RX S-Meter in a point that it swings between 0-3 S-Units. So in 40M band, with the FT-991A with a clean front-end (IPO, no attenuator) I had a S2-S3 noise floor. With the 710, IPO gets me to S8-9! So yes, now I have to run it attenuated, varying between 6 and 12 dB of attenunation. Damn big ears.
+Regards the sensitivity - I leave my RX S-Meter in a point that it swings between 0-3 S-Units. So in 40M band, with the FT-991A with a clean front-end (IPO, no attenuator) I had a S2-S3 noise floor. With the 710 - this is where it blows the 991A out of water, IPO gets me to S8-9! So yes, now I have to run it attenuated, varying between 6 and 12 dB of attenunation. Damn big ears. If I lived in a RF-silent place, it would have resulted **net new contacts** due to the **very noticeable** extra sensitivity. However, as per the opening statements, I'm limited by my antenna constraints and a metropolitan area noise floor.
 
-<to be continued>
+(to be continued)
