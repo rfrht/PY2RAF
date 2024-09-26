@@ -1,4 +1,4 @@
-# Review: Yaesu FT-710 under the perspective of a FT-991A user.
+# Review: Yaesu FT-710 under the perspective of a FT-991A user. (WIP)
 ## Introduction
 I've been a [happy FT-991A user](https://github.com/rfrht/FT-991A/wiki/Review-FT-991A) since 2019. And now... The FT-710. I started writing this review with a bit less than a month operating the FT-710. Here are my ramblings.
 
