@@ -47,4 +47,28 @@ Out of the box, for each step in the encoder it jumps 5 kHz in the frequency. An
 ## Mic gain, Compressor and AMG
 I was trying to make sense of it with some over-the-air recording (listening through a SDR). I found that AMG is kind of a gain configuration - the least AMG, the least signal you're putting out. Fun fact: The less AMG, the more the needle swings in `COMP` mode while TXing.
 
+These are the instructions that I got from Yaesu to configure them all. You start with **Mic Gain**, then **AMG** and then **Compressor**.
+
+--
+
+1. If menu settings power and audio levels are not at the default settings, either set them all to default or reset the radio. It is paramount that you have the values reverted back to factory originals, so existing configurations won't taint the configuration.
+2. Ensure the radio is in USB or LSB or AM.
+3. Go to menu `OPERATION SETTING` / `TX GENERAL` / `METER DETECTOR` and set it to `PEAK`.
+4. Connect the radio to a dummy load.
+5. Touch the meter and select `ALC`.
+6. Press the FUNC knob and select `MIC GAIN`
+7. Speak normally into the microphone and adjust the mic gain so the ALC indicates towards the top quarter of the ALC scale, but not into the blue part of the scale. Don’t worry if the average reading is somewhere in the middle of the white scale, just ensure you don’t drive it past the end of the white scale. For reference, my mic gain setting is at the default of 50.
+9. Touch the meter and select PO. Speak into the microphone and check that you see 100 watts output, or close to it, on the power meter on the radio.                                                                                                                  Note: When the power out setting for SSB is set to 100 watts,  ALC action will start as soon a the power out hits 100 watts, so the ALC action we saw earlier also indicates the radio is putting  100 watts on your speech peaks.
+10. Touch the meter and select `COMP`.
+11. Press the FUNC knob and select AMC level.
+12. Now speak into the microphone and observe the Compression meter. It has a slow action, and you may have to speak for a time to see a response.
+13. While speaking into the microphone, reduce the `AMC` level until you see the `COMP` level rise to the 10 db mark, or close to it. My AMC setting is at 80.
+14. Check the ALC still reads mid to top of the ALC scale and you still have 100 watts out.
+
+### Notes.
+* If the AMC setting is reduced excessively, you will see a reduction in ALC action, and a drop in output power, indicating there is not enough drive to push the finals to 100 watts out.
+* When using  the processor, you may have to re-adjust the AMC level to bring the compression back down to 10 db.
+
+--
+
 Regarding compressor, I'm yet to see a huge improvement with it. So far, I wasn't able to find any audio TX difference with compressor disabled and the maximum value. Still under investigation.
