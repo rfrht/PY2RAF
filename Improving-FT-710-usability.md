@@ -44,10 +44,10 @@ Out of the box, for each step in the encoder it jumps 5 kHz in the frequency. An
 6. Turn the `FUNC` button, change it to `1 KHz`
 7. Touch `BACK` to exit the configuration
 
-## Mic gain, Compressor and AMG
-I was trying to make sense of it with some over-the-air recording (listening through a SDR). I found that AMG is kind of a gain configuration - the least AMG, the least signal you're putting out. Fun fact: The less AMG, the more the needle swings in `COMP` mode while TXing.
+## Mic gain, Compressor and AMC
+I was trying to make sense of it with some over-the-air recording (listening through a SDR). I found that AMC is kind of a gain configuration - the least AMC, the least signal you're putting out. Fun fact: The less AMC, the more the needle swings in `COMP` mode while TXing.
 
-These are the instructions that I got from Yaesu to configure them all. You start with **Mic Gain**, then **AMG** and then **Compressor**.
+These are the instructions that I got from Yaesu to configure them all. You start with **Mic Gain**, then **AMC** and then **Compressor**.
 
 --
 
