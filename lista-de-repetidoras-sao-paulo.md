@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 15/Set/2024*
+*Revisado em: 29/Set/2024*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -23,7 +23,7 @@
 | 146.890 | ➖ | 79.7 | ✅ | Campos do Jordão | Voltou a analógica |
 | 146.910 | ➖ | 82.5 | ✅ | Serra Negra | A famosa Chapéu de Palha |
 | 146.930 | ➖ | 100 | ✅ | Piedade | Testada em Sorocaba |
-| 146.970 | ➖ | 100 | ❌ | Itu | |
+| 146.970 | ➖ | 123 | ✅ | Cabreúva | |
 | 147.000 | ➕ | 123 | ❌ | Mauá | |
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | |
 | 147.150 | ➕ | 67 | ❌ | São Bernardo do Campo | |
