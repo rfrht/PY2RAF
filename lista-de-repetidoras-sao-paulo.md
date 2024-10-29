@@ -1,10 +1,10 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 29/Set/2024*
+*Revisado em: 29/Out/2024*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| 145.250 | ➖ | 123 | ❌ | São Paulo | LABRE - Vl Carrão |
+| 145.250 | ➖ | 123 | ✅ | São Paulo | Jaraguá |
 | 145.270 | ➖ | 123 | ✅ | Cabreúva |  |
 | 145.290 | ➖ | 🔘 | ❌ | São Paulo | Jaraguá DX |
 | 145.310 | ➖ | 🔘 | ☢️ | Joanópolis | Digitalizada |
