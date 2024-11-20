@@ -26,7 +26,7 @@
 | 146.970 | ➖ | 123 | ✅ | Cabreúva | |
 | 147.000 | ➕ | 123 | ❌ | Mauá | |
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | |
-| 147.150 | ➕ | 67 | ❌ | São Bernardo do Campo | |
+| 147.150 | ➕ | 123 | ✅ | Rancho da Amizade | |
 | 147.150 | ➕ | 88.5 | ❓ | São Manuel | Depende de propagação |
 | 147.210 | ➕ | 67 | ✅ | Córrego do Bom Jesus |
 | 147.240 | ➕ | 🔘 | ❌ | Sorocaba | C4FM |
