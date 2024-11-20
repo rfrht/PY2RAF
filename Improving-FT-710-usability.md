@@ -44,6 +44,16 @@ Out of the box, for each step in the encoder it jumps 5 kHz in the frequency. An
 6. Turn the `FUNC` button, change it to `1 KHz`
 7. Touch `BACK` to exit the configuration
 
+## Microphone & intelligibility
+I joke with my girlfriend that if you want to **ruin** an amateur radio day is telling that the audio isn't good. LOL.
+
+I did though, found that the stock mic sounds way too heavy on the bass side with the factory-original preset TX bandpass. Narrowing it a bit will yield better intelligibility. Here's how.
+1. Hit the `FUNC` button
+2. Bottom row, select `RADIO SETTING`
+3. Select `MODE SSB`
+4. Scroll down to `TX BPF SEL`
+5. Change it to `200-2800Hz`
+
 ## Mic gain, Compressor and AMC
 I was trying to make sense of it with some over-the-air recording (listening through a SDR). I found that AMC is kind of a gain configuration - the least AMC, the least signal you're putting out. Fun fact: The less AMC, the more the needle swings in `COMP` mode while TXing.
 
