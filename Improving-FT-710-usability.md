@@ -14,16 +14,6 @@ Argh, that was a killer for me. Out-of-the factory, the meter comes configured a
 6. Turn the `FUNC` button, change it to `PEAK`
 7. Touch `BACK` to exit the configuration
 
-## Frequency shift when exchanging between USB and LSB
-When you switch between USB/LSB/AM/CW, you'll get a frequency shift of +- 800 Hz, and that's not super useful for me, as I have to re-tune when I change the mode.
-1. Hit the `FUNC` button
-2. Bottom row, select `CW SETTING`
-3. Touch `MODE CW`
-4. Turn the `FUNC` button, scroll down to `CW FREQ DISPLAY`
-5. Touch `CW FREQ DISPLAY`
-6. Turn the `FUNC` button, change it to `DIRECT FREQ`
-7. Touch `BACK` to exit the configuration
-
 ## Main VFO tuning step
 You will find out that the VFO and Clarifier in SSB mode tunes in 20 Hz steps in "Fine" mode. Well, I like 10 Hz steps more.
 1. Hit the `FUNC` button
@@ -42,6 +32,16 @@ Out of the box, for each step in the encoder it jumps 5 kHz in the frequency. An
 4. Turn the `FUNC` button, scroll down to `CH STEP`
 5. Touch `CH STEP`
 6. Turn the `FUNC` button, change it to `1 KHz`
+7. Touch `BACK` to exit the configuration
+
+## Frequency shift when exchanging between USB and LSB
+When you switch between USB/LSB/AM/CW, you'll get a frequency shift of +- 800 Hz, and that's not super useful for me, as I have to re-tune when I change the mode.
+1. Hit the `FUNC` button
+2. Bottom row, select `CW SETTING`
+3. Touch `MODE CW`
+4. Turn the `FUNC` button, scroll down to `CW FREQ DISPLAY`
+5. Touch `CW FREQ DISPLAY`
+6. Turn the `FUNC` button, change it to `DIRECT FREQ`
 7. Touch `BACK` to exit the configuration
 
 ## Microphone & intelligibility
