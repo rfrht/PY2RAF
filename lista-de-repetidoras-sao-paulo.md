@@ -22,7 +22,7 @@
 | 146.810 | ➖ | 82.5 | ✅ | Extrema | Não atraco da ZO. [QRZ](https://www.qrz.com/db/PY4FW) |
 | 146.890 | ➖ | 79.7 | ✅ | Campos do Jordão | Voltou a analógica |
 | 146.910 | ➖ | 82.5 | ✅ | Serra Negra | A famosa Chapéu de Palha |
-| 146.930 | ➖ | 100 | ❓ | Piedade | Testada em Sorocaba |
+| 146.930 | ➖ | 100 | ✅ | Piedade | Testada em Sorocaba |
 | 146.970 | ➖ | 123 | ✅ | Cabreúva | |
 | 147.000 | ➕ | 123 | ❌ | Mauá | |
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | |
@@ -41,7 +41,7 @@
 | 439.275 | ➖ | 127.3 | ✅ | Mogi das Cruzes | |
 | 439.300 | ➖ | 🔘 | ❌ | Mogi das Cruzes | |
 | 439.325 | ➖ | 103.5 | ✅ | São Paulo | Av. Paulista |
-| 439.450 | ➖ | 123 | ❓ | Sorocaba | Atracável por Votorantim e Sorocaba |
+| 439.450 | ➖ | 123 | ✅ | Sorocaba | Atracável por Votorantim e Sorocaba |
 | 439.600 | ➖ | 123 | ✅ | Paranapiacaba | Fala bem com baixada santista |
 | 439.650 | ➖ | 🔘 | ✅ | São Paulo | Cantareira - Link com 147.030 de Votorantim/Sorocaba |
 | 439.700 | ➖ | 123 | ✅ | Interlagos | |
