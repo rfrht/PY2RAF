@@ -26,6 +26,5 @@ I have rewritten my [VoiceMeeter macros](https://github.com/rfrht/Voicemeeter-FT
 
 The scope is super eye candy, and departing from FT-991A, it's a balm. It improved significantly my operation ergonomy/experience and while I'm entertaining the idea of cracking open the radio and deploy a panadapter on it, so far what I got on the screen is more than enough - and useful - for me. Didn't like a lot the 3DSS thing, just using in the plain panadapter mode.
 
-As of now, I'm yet to try digital modes. More to come.
-
-(to be continued)
+## Epilogue
+Well, I sold my FT-710. Not because it was a bad radio; no, by no means: It was an awesome one. Lended to a friend during the holiday season, he got enchanted by the radio - it found a good home, a great operator, and it was a win-win. Didn't really need another radio, it was more a craving for new equipment - duly satisfied. Back to my FT-991A.
