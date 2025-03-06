@@ -1,7 +1,4 @@
 # Improving the out-of-box FT-710 usability
-
-## WIP (Work in Progress)
-
 When I first got my radio, **of course** I didn't read the manual and I went to operate it immediately. Few nuisances showed up, and for some picky operators, this is how I addressed them.
 
 ## Power Meter needle
@@ -81,4 +78,4 @@ These are the instructions that I got from Yaesu to configure them all. You star
 
 --
 
-Regarding compressor, I'm yet to see a huge improvement with it. So far, I wasn't able to find any audio TX difference with compressor disabled and the maximum value. Still under investigation.
+Regarding compressor, I'm yet to see a huge improvement with it. So far, I wasn't able to find any audio TX difference with compressor disabled and the maximum value.
