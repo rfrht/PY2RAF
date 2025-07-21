@@ -24,7 +24,7 @@
 | 146.850 | ➖ | 103.5 | ❌ | Desconhecido | | ook
 | 146.890 | ➖ | 79.7 | ❌ | Campos do Jordão |  | ook
 | 146.910 | ➖ | 82.5 | ✅ | Serra Negra | A famosa Chapéu de Palha | ook
-| 146.930 | ➖ | 100 | ✅ | Piedade | Testada em Sorocaba |
+| 146.930 | ➖ | 100 | ❓ | Piedade | Testada em Sorocaba |
 | 146.970 | ➖ | 123 | ✅ | Cabreúva | | ook
 | 147.000 | ➕ | 123 | ❌ | Mauá | |
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | | ook
@@ -34,15 +34,15 @@
 | 147.240 | ➕ | 🔘 | ❌ | Sorocaba | C4FM |
 | 147.330 | ➕ | 74.4 | ❌ | Jundiaí | | ook
 | 147.390 | ➕ | 123 | ✅ | Interlagos | | ook
-| 439.000 | ➖ | 67 | ❌ | Desconhecido | Sinal marginal |
+| 439.000 | ➖ | 67 | ❓ | Desconhecido | Sinal marginal |
 | 439.050 | ➖ | 67 | ✅ | São Paulo | Repetidora Jaraguá Urbana | ook
 | 439.125 | ➖ | 🔘 | ☢️ | Cabreúva | DMR |
 | 439.200 | ➖ | 123 | ❌ | São Paulo | | ook
-| 439.225 | ➖ | 88.5 | ✅ | Salto | DX |
+| 439.225 | ➖ | 88.5 | ❓ | Salto | DX |
 | 439.275 | ➖ | 127.3 | ❌ | Mogi das Cruzes | | ook
 | 439.300 | ➖ | 🔘 | ❌ | Mogi das Cruzes | |
 | 439.325 | ➖ | 103.5 | ✅ | São Paulo | Av. Paulista | ook
-| 439.450 | ➖ | 123 | ✅ | Sorocaba | Atracável por Votorantim e Sorocaba |
+| 439.450 | ➖ | 123 | ❓ | Sorocaba | Atracável por Votorantim e Sorocaba |
 | 439.600 | ➖ | 123 | ✅ | Paranapiacaba | Fala bem com baixada santista | ook
 | 439.650 | ➖ | 🔘 | ✅ | São Paulo | | ook
 | 439.700 | ➖ | 123 | ✅ | Interlagos | | ook
@@ -51,7 +51,7 @@
 | 439.900 | ➖ | 82.5 | ❌ | Serra Negra | Rpt Chapeu de Couro | ook
 | 439.925 | ➖ | 🔘 | ☢️ | Desconhecido | Digitalizada |
 | 439.940 | 🔘 | 71.9 | ✅ | Echolink IVG Cantareira | Simplex e subtonada - PY2MO | ook
-| 439.975 | ➖ | 123 | ✅ | Piedade | Testada em Sorocaba |
+| 439.975 | ➖ | 123 | ❓ | Piedade | Testada em Sorocaba |
 
 73 de PY2RAF.
 
