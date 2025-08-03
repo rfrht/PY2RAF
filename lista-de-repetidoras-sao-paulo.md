@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 22/Jul/2025*
+*Revisado em: 03/Ago/2025*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -32,6 +32,7 @@
 | 147.150 | ➕ | 88.5 | ❓ | São Manuel | Depende de propagação |
 | 147.210 | ➕ | 67 | ✅ | Córrego do Bom Jesus | ook
 | 147.240 | ➕ | 🔘 | ❌ | Sorocaba | C4FM |
+| 147.270 | ➕ | 67 | ✅ | Serra da Cantareira | Sistema MagraoNet | ook
 | 147.330 | ➕ | 74.4 | ✅ | Jundiaí | | ook
 | 147.390 | ➕ | 123 | ✅ | Interlagos | | ook
 | 439.000 | ➖ | 67 | ❓ | Desconhecido | Sinal marginal |
