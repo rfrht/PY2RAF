@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 03/Ago/2025*
+*Revisado em: 18/Ago/2025*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -13,7 +13,7 @@
 | 145.410 | ➖ | 77 | ❓ | Jacutinga MG | DX / Depende Propagação |
 | 145.450 | ➖ | 67 | ✅ | Paraibuna | | ook
 | 145.450 | ➖ | 77 | ❓ | Botucatu | DX / Depende propagação |
-| 145.490 | ➖ | 88.5 | ❓ | Espírito Santo do Pinhal | DX / Depende Propagação | ook
+| 145.490 | ➖ | 88.5 | ✅ | Espírito Santo do Pinhal | DX / Depende Propagação | ook
 | 145.490 | ➖ | 100 | ❌ | Mogi das Cruzes | | ook
 | 146.610 | ➖ | 123 | ❌ | Itapecerica da Serra | Repetidora LABRE SP | ook
 | 146.610 | ➖ | 91.5 | ❓ | Apiaí | DX / Depende propagação |
