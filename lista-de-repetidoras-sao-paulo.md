@@ -28,7 +28,7 @@
 | 146.970 | ➖ | 123 | ✅ | Cabreúva | | ook
 | 147.000 | ➕ | 123 | ✅ | São Bernardo do Campo | |
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | | ook
-| 147.120 | ➕ | 127.3 | ✅ | Nazaré Paulista | Reza a lenda que faz C4FM | 
+| 147.120 | ➕ | 127.3 | ✅ | Nazaré Paulista | Também capaz de C4FM!!! | 
 | 147.150 | ➕ | 123 | ❌ | Rancho da Amizade | | ook
 | 147.150 | ➕ | 88.5 | ❓ | São Manuel | Depende de propagação |
 | 147.210 | ➕ | 67 | ✅ | Córrego do Bom Jesus | ook
