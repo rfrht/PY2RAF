@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 18/Ago/2025*
+*Revisado em: 17/Out/2025*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -26,8 +26,9 @@
 | 146.910 | ➖ | 82.5 | ✅ | Serra Negra | A famosa Chapéu de Palha | ook
 | 146.930 | ➖ | 100 | ❓ | Piedade | Testada em Sorocaba |
 | 146.970 | ➖ | 123 | ✅ | Cabreúva | | ook
-| 147.000 | ➕ | 123 | ❌ | Mauá | |
+| 147.000 | ➕ | 123 | ✅ | São Bernardo do Campo | |
 | 147.030 | ➕ | 127.3 | ✅ | Serra da Cantareira | | ook
+| 147.120 | ➕ | 127.3 | ✅ | Nazaré Paulista | Reza a lenda que faz C4FM | 
 | 147.150 | ➕ | 123 | ❌ | Rancho da Amizade | | ook
 | 147.150 | ➕ | 88.5 | ❓ | São Manuel | Depende de propagação |
 | 147.210 | ➕ | 67 | ✅ | Córrego do Bom Jesus | ook
