@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 17/Out/2025*
+*Revisado em: 30/Dez/2025*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -35,6 +35,7 @@
 | 147.240 | ➕ | 🔘 | ❌ | Sorocaba | C4FM |
 | 147.270 | ➕ | 67 | ✅ | Serra da Cantareira | Sistema MagraoNet | ook
 | 147.330 | ➕ | 74.4 | ✅ | Jundiaí | | ook
+| 147.330 | ➕ | 123 | ✅ | Desconhecido | | ook
 | 147.390 | ➕ | 123 | ✅ | Interlagos | | ook
 | 439.000 | ➖ | 67 | ❓ | Desconhecido | Sinal marginal |
 | 439.050 | ➖ | 67 | ✅ | São Paulo | Repetidora Jaraguá Urbana | ook
