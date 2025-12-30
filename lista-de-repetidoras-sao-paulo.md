@@ -19,7 +19,7 @@
 | 146.610 | ➖ | 91.5 | ❓ | Apiaí | DX / Depende propagação |
 | 146.650 | ➖ | 103.5 | ✅ | Aldeia da Serra | | ook
 | 146.670 | ➖ | 71.9 | ✅ | Cabreuva | Hibrida DMR | ook
-| 146.730 | ➖ | 141.3 | ❌ | Mogi das Cruzes | | ook
+| 146.730 | ➖ | 136.5 | ✅ | Mogi das Cruzes | | ook
 | 146.810 | ➖ | 82.5 | ✅ | Extrema | [QRZ](https://www.qrz.com/db/PY4FW) | ook
 | 146.850 | ➖ | 103.5 | ❌ | Desconhecido | | ook
 | 146.890 | ➖ | 79.7 | ❌ | Campos do Jordão |  | ook
