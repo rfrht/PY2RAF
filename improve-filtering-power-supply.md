@@ -54,7 +54,7 @@ This is how I assembled together all the capacitors:
 ![](https://github.com/user-attachments/assets/e4c379aa-19c9-432e-a75f-83f5fd258e9b)
 
 ## Results
-After installing the capacitors _inside_ my amplifier, the larger 370 kHz ripple was wiped off entirely:
+From this point onwards, all measurements are done at the power input **at the amplifier**, no longer from PSU terminals. After installing the capacitors _inside_ my amplifier, the larger 370 kHz ripple was wiped off entirely:
 
 ![](https://github.com/user-attachments/assets/e3060783-215d-4c36-907b-19479ebe4cd0)
 
