@@ -4,9 +4,9 @@
 I was in need of a beefy 13.8V power supply (PSU) for my new linear amplifier. After evaluating the cost x benefit x needs, I bought a [MeanWell LRS-600-15](https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-600) from [DigiKey](https://www.digikey.com/en/products/detail/mean-well-usa-inc/LRS-600-15/16394231). The 15V variant provides a 13.8V output at the trim-pot in fully counter-clockwise (minimum adjustable voltage) position and 600W maximum power output, resulting in 43 amperes at 13.8 volts. That's a bit too close to the maximum power needs of my amplifier (on specs, peak 40 A), but considering the SSB as my preferential mode and lighter duty cycle, I'm sticking to this model. No plans to do FT8 with the amp (as of now, grins).
 
 ## The elephant in the room - switching noise
-While I picked a reputable manufacturer (MeanWell), these low cost switched power supplies are known for leaking the switcher noise into the downstream regulated output. The PSU [datasheet](https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-600) specified a maximum 200 mVpp ripple, and a oscillator frequency (fosc) from 50-130 kHz.
+While I picked a reputable manufacturer (MeanWell), these low cost switched power supplies are known for leaking the switcher noise into the downstream regulated output. The PSU [datasheet](https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-600) specified a maximum 200 mVpp ripple, and a oscillator frequency (*fOsc*) from 50-130 kHz.
 
-These findings were measured on a Rigol DS1054Z, channel 1, AC coupled, bandwidth limited to 20 MHz (as per the spec tests). Upon powering up the PSU without any load, this is what I found at the power terminals:
+These findings were measured on a Rigol DS1054Z, channel 1, AC coupled, bandwidth limited to 20 MHz (as per the spec tests). Upon powering up the PSU without any load, this is what I found at the PSU terminals:
 
 ![](https://github.com/user-attachments/assets/d886c270-eee8-42ef-9861-72e91c79207a)
 
@@ -21,7 +21,7 @@ Using the cursor functionality, it identified an approx. 140 mVpp noise with fun
 Here we can see a ~ 715 kHz noise at ~ 28 mVpp, hinting a first harmonic of the fundamental 370 kHz noise.
 
 ## Proposed Resolution
-A Google Gemini session suggested that since I'm using a high current (50A) power supply, it is harder to use off-the-shelf "EMI Filters" (which are usually rated for only 3–10 Amps).
+A Google Gemini session suggested that since I'm using a high current (40A) power supply, it is harder to use off-the-shelf "EMI Filters" (which are usually rated for only 3–10 Amps).
 
 The AI suggested building a Low-Pass Filter using capacitors. Since 370 kHz is a high frequency, it will need a mix of capacitor types:
 
@@ -34,7 +34,7 @@ The AI suggested building a Low-Pass Filter using capacitors. Since 370 kHz is a
  
 * **1x large Ferrite:** Material 75 ferrite.
     * *Role:* Some of the noise might be Common Mode (noise on both wires relative to earth). Thus, suggested adding a ferrite. Because the current goes out on V+ and back on V-, the magnetic fields cancel out, so the core doesn't saturate. It only blocks the noise that is common to both lines.
-    * *Crucial Spec:* Get a large **Material 75** Ferrite Ring (Toroid) or clip-on. Just slapping unknown/random material ferrites will not necessarily yield good results. [I tested with a Material 46 clip-on](https://github.com/user-attachments/assets/ed62b839-2b92-4374-a05e-30fbe72713b0) and the noise went happily through it. Ferrite material **matters**.
+    * *Crucial Spec:* Get a large **Material 75** Ferrite Ring (Toroid) or clip-on. Just slapping unknown/random material ferrites will not necessarily yield good results. [I tested with a Material 46 clip-on](https://github.com/user-attachments/assets/ed62b839-2b92-4374-a05e-30fbe72713b0) and the noise went happily through it - not filtering anything. Ferrite material **matters**.
     * *Technique:* Pass BOTH the V+ and V- wires through the ring together, **near the device**. Wrap them around the ring 2-3 times if they fit.
 
 
@@ -70,7 +70,7 @@ Which choked big time the remaining ripple:
 
 ![](https://github.com/user-attachments/assets/df368208-32f1-4bbb-9e4f-2b803b963018)
 
-Resulting in a transformed and meager 11 mVpp ripple at 285 kHz. (Note: This 285 kHz signal is likely a harmless resonance artifact from the filter itself, known as 'tank circuit ringing,' and is negligible compared to the original noise.)
+Resulting in a transformed and meager 11 mVpp ripple at 285 kHz. This 285 kHz signal is a resonance artifact (LC ringing) caused by the interaction between the new capacitor bank and the ferrite inductance and is negligible compared to the original noise.
 
 # Conclusion
 With ~ $15 worth of parts I was able to transform transform a somewhat noisy PSU into a unit with **<12mV ripple**, surpassing the noise floor of many linear supplies and beating the Alinco DM-330MV (58mV) by a factor of five.
