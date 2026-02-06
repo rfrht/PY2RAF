@@ -10,11 +10,11 @@ These findings were measured on a Rigol DS1054Z, channel 1, AC coupled, bandwidt
 
 ![](https://github.com/user-attachments/assets/d886c270-eee8-42ef-9861-72e91c79207a)
 
- Delving deeper in the artifacts, this is the first and stronger artifact:
+Delving deeper in the artifacts, this is the first and stronger artifact:
 
 ![](https://github.com/user-attachments/assets/0de4ccaa-475a-4db7-87f4-5670c79b14e2)
 
- Using the cursor functionality, this is an approx. 140 mVpp noise with fundamental frequency at ~ 370 kHz. 370 kHz is "radio active." Its harmonics extend much further up into the spectrum, quickly reaching the amateur radio frequencies. It is harder to filter because the noise is more aggressive and can "jump" across components (capacitive coupling). Let's look at the sine'ish artifact.
+Using the cursor functionality, it identified an approx. 140 mVpp noise with fundamental frequency at ~ 370 kHz. 370 kHz is "radio active." Its harmonics extend much further up into the spectrum, quickly reaching the amateur radio frequencies. Now, let's look at the sine'ish artifact:
 
  ![](https://github.com/user-attachments/assets/83999694-f111-45ef-9a23-83960b459d8c)
 
@@ -33,9 +33,10 @@ The AI suggested building a Low-Pass Filter using capacitors. Since 370 kHz is a
     * *Role:* These act like a short-circuit for high-frequency noise (370kHz - 714kHz). Electrolytics are "blind" to these fast frequencies; ceramics catch them.
  
 * **1x large Ferrite:** Material 75 ferrite.
-    * *Action:* Get a large Ferrite Ring (Toroid) or clip-on (Material 75 good for this freq).
-    * *Technique:* Pass BOTH the V+ and V- wires through the ring together, **near the device**. Wrap them around the ring 2-3 times if they fit.
     * *Role:* Some of the noise might be Common Mode (noise on both wires relative to earth). Thus, suggested adding a ferrite. Because the current goes out on V+ and back on V-, the magnetic fields cancel out, so the core doesn't saturate. It only blocks the noise that is common to both lines.
+    * *Crucial Spec:* Get a large **Material 75** Ferrite Ring (Toroid) or clip-on. Just slapping unknown/random material ferrites will not necessarily yield good results. [I tested with a Material 46 clip-on](https://github.com/user-attachments/assets/ed62b839-2b92-4374-a05e-30fbe72713b0) and the noise went happily through it. Ferrite material **matters**.
+    * *Technique:* Pass BOTH the V+ and V- wires through the ring together, **near the device**. Wrap them around the ring 2-3 times if they fit.
+
 
 ## Bill of materials
 - [Rubycon ZLR series, electrolytic low ESR 3300 µF, 25V](https://www.digikey.com/en/products/detail/rubycon/25ZLR3300MEFC12-5X35/25271325)
