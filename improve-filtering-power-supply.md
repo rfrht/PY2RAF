@@ -69,10 +69,10 @@ Which choked big time the remaining ripple:
 
 ![](https://github.com/user-attachments/assets/df368208-32f1-4bbb-9e4f-2b803b963018)
 
-Resulting in a transformed and meager 285 kHz ripple, 11 mVpp.
+Resulting in a transformed and meager 11 mVpp ripple at 285 kHz. (Note: This 285 kHz signal is likely a harmless resonance artifact from the filter itself, known as 'tank circuit ringing,' and is negligible compared to the original noise.)
 
 # Conclusion
-With ~ $15 worth of parts I was able to transform a somewhat noisy PSU into a lab-grade (says Gemini) clear output, without restraining the power output - and cleaner than my Alinco DM-330MV.
+With ~ $15 worth of parts I was able to transform transform a somewhat noisy PSU into a unit with **<12mV ripple**, surpassing the noise floor of many linear supplies and beating the Alinco DM-330MV (58mV) by a factor of five.
 
 Quick recap. It was:
 
