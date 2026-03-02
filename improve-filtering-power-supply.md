@@ -70,7 +70,7 @@ Which choked big time the remaining ripple:
 
 ![](https://github.com/user-attachments/assets/df368208-32f1-4bbb-9e4f-2b803b963018)
 
-Resulting in a transformed and meager 11 mVpp ripple at 285 kHz. This 285 kHz signal is a resonance artifact (LC ringing) caused by the interaction between the new capacitor bank and the ferrite inductance and is negligible compared to the original noise.
+Resulting in a transformed and meager 11 mVpp ripple at 285 kHz. This 285 kHz signal is a resonance artifact (LC ringing) caused by the interaction between the new capacitor bank and the ferrite inductance and is negligible compared to the original noise. **NOTICE THE SCALE** - This picture was taken using the 10mV scale.
 
 # Conclusion
 With ~ $15 worth of parts I was able to transform transform a somewhat noisy PSU into a unit with **<12mV ripple**, surpassing the noise floor of many linear supplies and beating the Alinco DM-330MV (58mV) by a factor of five.
