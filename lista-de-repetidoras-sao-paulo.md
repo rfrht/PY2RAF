@@ -38,7 +38,7 @@
 | 147.270 | ➕ | 67 | ✅ | Serra da Cantareira | Repetidora Frankenstein | ook
 | 147.300 | ➕ | 🔘 | ☢️ | Desconhecido | Digitalizada |
 | 147.330 | ➕ | 74.4 | ✅ | Jundiaí | | ook
-| 147.330 | ➕ | 123 | ✅ | Desconhecido | | ook
+| 147.330 | ➕ | 123 | ✅ | Mairiporã | Repetidora LABRE SP | ook
 | 147.360 | ➕ | 🔘 | ☢️ | Desconhecido | Digitalizada |
 | 147.390 | ➕ | 123 | ✅ | Interlagos | | ook
 | 439.000 | ➖ | 67 | ❓ | Desconhecido | Sinal marginal |
