@@ -23,6 +23,7 @@
 | 146.730 | ➖ | 77.0 | ✅ | São Pedro | DX / Depende propagação | ook
 | 146.810 | ➖ | 82.5 | ✅ | Extrema | [QRZ](https://www.qrz.com/db/PY4FW) | ook
 | 146.850 | ➖ | 103.5 | ❌ | Desconhecido | | ook
+| 146.870 | ➖ | 82.5 | ✅ | Desconhecido |  | ook
 | 146.890 | ➖ | 79.7 | ✅ | Campos do Jordão |  | ook
 | 146.910 | ➖ | 82.5 | ✅ | Serra Negra | A famosa Chapéu de Palha | ook
 | 146.930 | ➖ | 100 | ❓ | Piedade | Testada em Sorocaba |
