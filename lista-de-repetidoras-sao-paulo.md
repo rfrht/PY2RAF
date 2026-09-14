@@ -46,6 +46,7 @@
 | 439.275 | ➖ | 127.3 | ❌ | Mogi das Cruzes | | ook
 | 439.300 | ➖ | 🔘 | ❌ | Mogi das Cruzes | |
 | 439.325 | ➖ | 103.5 | ✅ | São Paulo | Av. Paulista | ook
+| 439.375 | ➖ | ❓ | ✅ | IVG Desconhecido | PY2RCA | ook
 | 439.450 | ➖ | 123 | ❓ | Sorocaba | Atracável por Votorantim e Sorocaba |
 | 439.600 | ➖ | 123 | ❌ | Paranapiacaba | Fala bem com baixada santista | ook
 | 439.650 | ➖ | 🔘 | ✅ | São Paulo | | ook
