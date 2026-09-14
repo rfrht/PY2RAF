@@ -34,9 +34,11 @@
 | 147.150 | ➕ | 88.5 | ❓ | São Manuel | Depende de propagação |
 | 147.210 | ➕ | 67 | ✅ | Córrego do Bom Jesus | ook
 | 147.240 | ➕ | 🔘 | ❌ | Sorocaba | C4FM |
-| 147.270 | ➕ | 67 | ✅ | Serra da Cantareira | Sistema MagraoNet | ook
+| 147.270 | ➕ | 67 | ✅ | Serra da Cantareira | Repetidora Frankenstein | ook
+| 147.300 | ➕ | 🔘 | ☢️ | Desconhecido | Digitalizada |
 | 147.330 | ➕ | 74.4 | ✅ | Jundiaí | | ook
 | 147.330 | ➕ | 123 | ✅ | Desconhecido | | ook
+| 147.360 | ➕ | 🔘 | ☢️ | Desconhecido | Digitalizada |
 | 147.390 | ➕ | 123 | ✅ | Interlagos | | ook
 | 439.000 | ➖ | 67 | ❓ | Desconhecido | Sinal marginal |
 | 439.050 | ➖ | 67 | ✅ | São Paulo | Repetidora Jaraguá Urbana | ook
