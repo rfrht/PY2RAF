@@ -1,9 +1,10 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 30/Dez/2025*
+*Revisado em: 15/Set/2026*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| 145.110 | 🔘 | 71.9 | ✅ | Echolink IVG Cantareira | Simplex e subtonada | ook
 | 145.250 | ➖ | 123 | ✅ | São Paulo | Jaraguá | ook
 | 145.270 | ➖ | 123 | ✅ | Cabreúva | | ook
 | 145.290 | ➖ | 🔘 | ❌ | São Paulo | Jaraguá DX |
