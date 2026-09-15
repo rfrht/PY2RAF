@@ -40,7 +40,7 @@
 | 147.330 | ➕ | 74.4 | ✅ | Jundiaí | | ook
 | 147.330 | ➕ | 123 | ✅ | Mairiporã | Repetidora LABRE SP | ook
 | 147.360 | ➕ | 🔘 | ☢️ | Desconhecido | Digitalizada |
-| 147.390 | ➕ | 123 | ✅ | Interlagos | | ook
+| 147.390 | ➕ | 123 | ✅ | Interlagos | Rancho da Amizade | ook
 | 439.000 | ➖ | 67 | ❓ | Desconhecido | Sinal marginal |
 | 439.050 | ➖ | 67 | ✅ | São Paulo | Repetidora Jaraguá Urbana | ook
 | 439.125 | ➖ | 🔘 | ☢️ | Cabreúva | DMR |
