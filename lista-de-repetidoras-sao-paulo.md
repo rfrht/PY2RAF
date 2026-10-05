@@ -1,6 +1,6 @@
 # Lista de repetidoras acessíveis a partir de São Paulo, Capital - GG66PK.
 
-*Revisado em: 15/Set/2026*
+*Revisado em: 05/Out/2026*
 
 | Frequência | Shift | Subtom | Atracável? | QTH | Obs.: |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -49,6 +49,7 @@
 | 439.225 | ➖ | 88.5 | ✅ | Salto | DX |
 | 439.275 | ➖ | 127.3 | ❌ | Mogi das Cruzes | | ook
 | 439.300 | ➖ | 🔘 | ❌ | Mogi das Cruzes | |
+| 439.325 | ➖ | 74.4 | ✅ | Louveira | Opr by Louvetel | ook
 | 439.325 | ➖ | 103.5 | ✅ | São Paulo | Av. Paulista | ook
 | 439.375 | ➖ | ❓ | ✅ | IVG Desconhecido | PY2RCA | ook
 | 439.450 | ➖ | 123 | ❓ | Sorocaba | Atracável por Votorantim e Sorocaba |
